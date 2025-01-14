@@ -1,3 +1,5 @@
+**Abstract**
+
  This research presents a novel methodology for full-body motion capture utilizing a standard
  webcam setup. The primary objective of this project is to develop an accessible and cost
 effective solution for capturing human motion data without the need for specialized hardware.
@@ -17,3 +19,16 @@ effective solution for capturing human motion data without the need for speciali
  capabilities open up opportunities for a wide range of applications in entertainment,
  healthcare, and beyond. Further refinements and optimizations could enhance the system's
  accuracy and performance, paving the way for widespread adoption in diverse industries.
+
+
+**Result**
+
+**Realtime**
+
+![image](https://github.com/user-attachments/assets/d17a891d-8c81-488f-b313-d85360407527)
+
+![image](https://github.com/user-attachments/assets/017aa8bf-2144-42a2-97c0-485ed772a954)
+
+**Video Output**
+
+![image](https://github.com/user-attachments/assets/05c2924c-73e8-48d6-a31e-bc3d6396f16f)
