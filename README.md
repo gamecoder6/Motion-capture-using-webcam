@@ -24,7 +24,6 @@ effective solution for capturing human motion data without the need for speciali
 **Result**
 
 **Realtime**
-
 ![image](https://github.com/user-attachments/assets/d17a891d-8c81-488f-b313-d85360407527)
 
 ![image](https://github.com/user-attachments/assets/017aa8bf-2144-42a2-97c0-485ed772a954)
