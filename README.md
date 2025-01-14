@@ -22,12 +22,14 @@ effective solution for capturing human motion data without the need for speciali
 
 
 **System block Diagram**
+
 ![image](https://github.com/user-attachments/assets/cb4106e2-72fe-4cd7-b4ba-b04f069c67ab)
 
 
 **Result**
-
 **Realtime**
+
+![image](https://github.com/user-attachments/assets/f4f3c1a4-10e8-49e6-a71f-4c7202baf2e7)
 
 
 **Video Output**
